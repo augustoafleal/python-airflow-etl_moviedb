@@ -12,6 +12,8 @@ The technologies used in the project include:
 - Pandas
 - PostgreSQL
 
+![MDB_ETL drawio](https://github.com/augustoafleal/python-airflow-etl_moviedb/assets/82728487/5ac8dce6-92ab-4ff9-991c-eddd6273f740)
+
 ## Project Structure
 
 ```md
